@@ -5,3 +5,4 @@ def line(katz_deli)
   else
     puts " There are #{katz_deli.size} in the line"
 end
+end
